@@ -2,4 +2,4 @@
 ## 📢 Updates
 
 - [2026/07/18] 📌 Initialize the project page and README.md.
-- [2026/07/18] ✨ Initialize repository.
+- [2026/07/18] ✨ Initialize the repository.
